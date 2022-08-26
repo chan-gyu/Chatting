@@ -1,3 +1,3 @@
 # **Simple Chatting**
 
-### Spring WebSocket Simple Chatting
+### Spring - WebSocket Simple Chatting
